@@ -1,5 +1,4 @@
-CFLAGS += -I/usr/local/include/dbus-1.0/
-CFLAGS += -I/usr/local/lib/dbus-1.0/include/
+CFLAGS += -I/usr/include/dbus-1.0/
 LDFLAGS += -ldbus-1
 
 
